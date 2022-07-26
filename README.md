@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Blogs_App_Frontend](https://github.com/GMohammadAli/BlogsApp_Frontend)
 
-- 🌱 I’m currently learning **React JS and Node JS**
+- 🌱 I’m currently learning **React JS and Ruby On Rails**
 
 - 💬 Ask me about **Node JS and Express JS**
 
