@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmohammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gmohammadali" /> </p>
 
-- 🔭 I’m currently working on [Blogs_App_Frontend](https://github.com/GMohammadAli/BlogsApp_Frontend)
+- 🔭 I’m currently working on [Drugtory_Frontend](https://github.com/ssingularitytech/drugtory-template)
 
 - 🌱 I’m currently learning **React JS and Ruby On Rails**
 
