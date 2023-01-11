@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MedEx](https://github.com/GMohammadAli/MedEx)
 
-- 🌱 I’m currently learning **React JS and Ruby On Rails**
+- 🌱 I’m currently learning **React JS and Dapps in Solidity**
 
 - 💬 Ask me about **Node JS and Express JS**
 
