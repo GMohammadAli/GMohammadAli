@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmohammadali&label=Profile%20views&color=0e75b6&style=flat" alt="gmohammadali" /> </p>
 
-- 🔭 I’m currently working on [Chat Application](https://github.com/GMohammadAli/ChatApplication)
 
 - 🌱 I’m currently learning **React JS and DApps in Solidity**
 
